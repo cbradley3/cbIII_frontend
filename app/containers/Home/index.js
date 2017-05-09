@@ -14,7 +14,7 @@ export default class Home extends React.PureComponent {
       <div>
         <Helmet title="Home" meta={[ { name: 'description', content: 'Description of Home' }]}/>
 
-      //Remove this line and you can start writing your code here.
+      //Remove this line and you can starhdhhjt writing your code here.
       </div>
     );
   }
